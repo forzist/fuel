@@ -1,0 +1,5 @@
+selenium
+selenium-wire
+webdriver-manager
+fake-useragent
+pyperclip
